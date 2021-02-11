@@ -1,1 +1,2 @@
-# OOP2_PROJECTS
+# OOP2_PROJECTS 
+consist of class projects only
