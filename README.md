@@ -7,6 +7,12 @@ consist of  simple class projects in python.
 
 #3.grading.py-is a marks grading system.
 
-#4.methodprog.py--illustrate functions of different python methods.
+#4.gradingsyst_with_func.py - is a grading sytem that is called in function
 
-#5.volume_area.py- calculating area and volume of differents shapes using functions
+#5.methodprog.py--illustrate functions of different python methods.
+
+#6.numrange.py - displays a range of numbers
+
+#7.temp.py - converts temparature from celcius to fahreheits and viceverser
+
+#8.volume_area.py- calculating area and volume of differents shapes using functions
