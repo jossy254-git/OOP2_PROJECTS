@@ -9,10 +9,12 @@ consist of  simple class projects in python.
 
 #4.gradingsyst_with_func.py - is a grading sytem that is called in function
 
-#5.methodprog.py--illustrate functions of different python methods.
+#5.list.py - is program that shows list method
 
-#6.numrange.py - displays a range of numbers
+#6.methodprog.py--illustrate functions of different python methods.
 
-#7.temp.py - converts temparature from celcius to fahreheits and viceverser
+#7.numrange.py - displays a range of numbers
 
-#8.volume_area.py- calculating area and volume of differents shapes using functions
+#8.temp.py - converts temparature from celcius to fahreheits and viceverser
+
+#9.volume_area.py- calculating area and volume of differents shapes using functions
