@@ -11,6 +11,8 @@ consist of  simple class projects in python.
 
 #5.list.py - is program that shows list method
 
+#6:listsmethod.py - illustrate various lists methods
+
 #7.methodprog.py--illustrate functions of different python methods.
 
 #8.numrange.py - displays a range of numbers
